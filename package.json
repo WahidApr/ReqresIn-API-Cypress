@@ -1,0 +1,14 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "API Testing",
+  "main": "index.js",
+  "author": "Wahidapr",
+  "license": "MIT",
+  "scripts": {
+    "cy:open":"cypress open"
+  },
+  "dependencies": {
+    "cypress": "9.5.3"
+  }
+}
